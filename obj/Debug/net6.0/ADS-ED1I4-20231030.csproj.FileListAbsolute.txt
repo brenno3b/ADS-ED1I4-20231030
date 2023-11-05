@@ -1,0 +1,17 @@
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\obj\Debug\net6.0\ADS-ED1I4-20231030.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\obj\Debug\net6.0\ADS-ED1I4-20231030.AssemblyInfoInputs.cache
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\obj\Debug\net6.0\ADS-ED1I4-20231030.AssemblyInfo.cs
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\obj\Debug\net6.0\ADS-ED1I4-20231030.csproj.CoreCompileInputs.cache
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\bin\Debug\net6.0\ADS-ED1I4-20231030.exe
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\bin\Debug\net6.0\ADS-ED1I4-20231030.deps.json
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\bin\Debug\net6.0\ADS-ED1I4-20231030.runtimeconfig.json
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\bin\Debug\net6.0\ADS-ED1I4-20231030.dll
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\bin\Debug\net6.0\ADS-ED1I4-20231030.pdb
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\obj\Debug\net6.0\ADS-ED1I4-20231030.dll
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\obj\Debug\net6.0\refint\ADS-ED1I4-20231030.dll
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\obj\Debug\net6.0\ADS-ED1I4-20231030.pdb
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\obj\Debug\net6.0\ADS-ED1I4-20231030.genruntimeconfig.cache
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\obj\Debug\net6.0\ref\ADS-ED1I4-20231030.dll
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\obj\Debug\net6.0\ADS-ED1I4-20231030.csproj.AssemblyReference.cache
+C:\Users\Brenno\source\repos\ADS-ED1I4-20231030\obj\Debug\net6.0\ADS-ED1I4-20231030.csproj.CopyComplete
